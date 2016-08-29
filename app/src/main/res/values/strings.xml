@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mapas Coursera</string>
+    <string name="gopark">Parque</string>
+    <string name="gomall">C.Comercial</string>
+    <string name="gosubway">Metro</string>
+    <string name="gotown">Delegacion</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+</resources>
